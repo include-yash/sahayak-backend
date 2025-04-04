@@ -1,5 +1,9 @@
 # Ignore virtual environments
-venv/
+venv/__pycache__
+venv/Lib
+venv/Include
+venv/Scripts
+venv/pyvenv.cfg
 
 # Python cache
 __pycache__/
